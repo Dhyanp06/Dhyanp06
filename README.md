@@ -15,7 +15,7 @@
 
 🎓 Computer Engineering student at *Vidush Somany Institute of Technology and Research, Kadi* (2023–2026)  
 🎓 Completed Diploma in Computer Engineering from *Ganpat University* (2020–2023)  
-🌐 Focus: *Web Development, **Android Apps, **UI/UX Design, **Creative Prototypes*  
+🌐 Focus: *Web Development*, *Android Apps*,*UI/UX Design*, *Creative Prototypes*  
 🚀 Exploring: Flutter, Firebase, and No-Code Platforms  
 
 ---
