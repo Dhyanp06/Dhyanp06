@@ -1,9 +1,13 @@
-![logo]()
+![logo](https://github.com/Dhyanp06/Dhyanp06/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Dhyan Patel</h1>
 <h3 align="center">A Creative Developer | UI/UX Designer | Tech Explorer | Visionary Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer+in+the+Making;Web+%7C+App+%7C+UI%2FUX+Developer;Tech+Lover+and+Lifelong+Learner&center=true&width=500&height=45&color=00F4B0&vCenter=true&pause=1000&size=22" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhyanp06&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
 
 
@@ -82,9 +86,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhyanp06&label=Profile+Views&color=brightgreen&style=flat" />
-</p>
+
 
 ---
 
