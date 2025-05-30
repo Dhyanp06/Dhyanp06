@@ -1,11 +1,11 @@
-<h1 align="center">🚀 Dhyan Patel</h1>
-<h3 align="center">Creative Developer | UI/UX Enthusiast | Lifelong Learner</h3>
+![logo]()
+<h1 align="center">Hi 👋, I'm Dhyan Patel</h1>
+<h3 align="center">A Creative Developer | UI/UX Designer | Tech Explorer | Visionary Builder</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhyanp06/Dhyanp06/main/assets/banner.png" alt="Dhyan Patel Banner"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer+in+the+Making;Web+%7C+App+%7C+UI%2FUX+Developer;Tech+Lover+and+Lifelong+Learner&center=true&width=500&height=45&color=00F4B0&vCenter=true&pause=1000&size=22" />
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -39,15 +39,23 @@
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-1E1E2C?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
+## 📚 Education
+
+| Degree  | Institution | Year | Score |
+|--------|-------------|------|-------|
+| B.E. in Computer Engineering | Vidush Somany Institute of Technology and Research | 2023–2026 | – |
+| Diploma in Computer Engineering | Ganpat University | 2020–2023 | 7.84 CGPA |
+| 10th Grade | Madhav Vishwavidyalaya | 2019–2020 | 64% |
+
 
 ## 🌟 Featured Projects
 
 | Project | Description | Stack |
 |--------|-------------|-------|
 | 🛒 *Online Electronic Store* | E-commerce website with OTP login and payment | HTML, CSS, JS, PHP, MySQL |
-| 📢 *Digital Marketing Agency* | Landing site for social media marketing services | HTML, CSS, JS, Figma |
-| 🌾 *KrushiBandhu* | Smart farming app with useful resources and alerts | Android, Firebase |
-| 🍽 *RightToFood 2.0* | App to connect food donors with NGOs | Android, Firebase |
+| 📢 *Digital Marketing Agency* | Landing site for social media marketing services | HTML, CSS, JS, MySQL |
+| 🌾 *KrushiBandhu* | Smart farming app with useful resources and alerts | Flutter, Firebase |
+| 🍽 *RightToFood 2.0* | App to connect food donors with NGOs |Flutter, Firebase |
 
 ---
 
