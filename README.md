@@ -58,8 +58,8 @@
 |--------|-------------|-------|
 | 🛒 *Online Electronic Store* | E-commerce website with OTP login and payment | HTML, CSS, JS, PHP, MySQL |
 | 📢 *Digital Marketing Agency* | Landing site for social media marketing services | HTML, CSS, JS, MySQL |
-| 🌾 *KrushiBandhu* | Smart farming app with useful resources and alerts | Flutter, Firebase |
-| 🍽 *RightToFood 2.0* | App to connect food donors with NGOs |Flutter, Firebase |
+| 🌾 *KrushiBandhu* | Smart farming app with useful resources and alerts | Flutter, MySQL |
+| 🍽 *AaharTrack* | App to manage the food management in hostels |Flutter, MySQL |
 
 ---
 
